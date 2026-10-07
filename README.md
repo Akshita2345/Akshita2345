@@ -7,4 +7,4 @@ Use this in your README:
 🤖 Interested in AI/ML and building practical applications<br><br>
 My Portfolio: https://comforting-cuchufli-afb99f.netlify.app/
 
-This keeps each line separate on GitHub.
+
