@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Akshita2345
-- 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning 4.0 TECHNOLOGY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me akshitamgofficial@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Akshita2345/Akshita2345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 CSE Undergraduate | Aspiring Software Developer
+💻 Interested in Software Development & Backend Development
+🐍 Working with Python, Java, SQL & REST APIs
+🗄️ Exploring MySQL, PostgreSQL & Database Development
+🤖 Interested in AI/ML and building practical applications
+My Portfolio: https://comforting-cuchufli-afb99f.netlify.app/
