@@ -1,4 +1,4 @@
-Use this in your README:
+
 
 🎓 CSE Undergraduate | Aspiring Software Developer<br>
 💻 Interested in Software Development & Backend Development<br>
